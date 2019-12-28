@@ -1,0 +1,220 @@
+
+
+\ProvidesPackage{mystyle}
+
+
+
+\addtolength\topmargin{-.5in}
+\addtolength\textheight{1.in} 
+\addtolength\oddsidemargin{-.045\textwidth} 
+\addtolength\textwidth{.09\textwidth} 
+
+
+
+
+\tolerance=1414 
+\setlength\emergencystretch{1.5em} 
+\hbadness=1414 
+\setlength\hfuzz{.3pt} 
+\widowpenalty=10000 
+\raggedbottom 
+\setlength\vfuzz{.3pt} 
+
+
+
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{textcomp} 
+\usepackage[english]{babel}
+\usepackage[autolanguage]{numprint} 
+\usepackage{hyperref} 
+\usepackage{graphicx} 
+\usepackage{verbatim} 
+\usepackage[all]{xy}
+\usepackage{dsfont}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,amsthm} 
+\usepackage{lmodern}
+\usepackage{ tipa }
+\usepackage{latexsym}
+\usepackage{dsfont}
+\usepackage{mathtools}
+\usepackage{relsize}
+\usepackage{exscale}
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+\usepackage{shadowtext}
+\title{Question de Cours} 
+
+\author{S. Gibaud}
+
+
+
+
+
+
+
+
+
+
+
+\newcommand{\dro}{\partial_t}  % dr comme "d rond" pour les dérivées partielles, plus court...
+\newcommand\Derivation[3]{ \frac{\partial}{\partial #1}\!\left( #2 \right)   \! \left(#3\right)}
+\newcommand\derivation[3]{ \frac{\partial \, #2}{\partial #1}\! \left(#3\right)}
+\newcommand\mathcomment[1]{\text{\small({#1)}}}
+\newcommand{\Cinf}{ \mathscr{C}^{\infty}} %Pour ecrire "fonction de class C infini"..
+\newcommand\C[1]{ \mathscr{C}^{#1}}
+\newcommand{\R}{\mathbb{R}} % marre d'écrire R en galérant!
+\newcommand{\E}{\mathbb{E}} % marre d'écrire R en galérant!
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\W}{\mathbb{W}}
+\newcommand{\G}{\mathbb{G}}
+\newcommand{\rhoo}{(1 - \beta)}
+\newcommand{\dxi}{\mathrm{d}\xi}
+\newcommand{\V}{\mathbb{V}} % marre d'écrire R en galérant!
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\Sumj}{\sum\limits^N_{\begin{array}{c} 
+			j=1 \\
+			j \neq i
+		\end{array}}}
+\newcommand{\Sumkl}{
+	\sum\limits^N_{\begin{array}{c}
+			k,l  = 1\\
+			k \neq  i, l \neq i
+
+		\end{array}}}
+
+
+
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand\derivp[3]{\frac{\dr\, #1}{\dr\, #2}_{\mid #2=#3}.} % dérivée partielle rap a une variablet , en t=...
+\DeclareMathOperator{\im}{Im}  % pour l'image d'une fonction 
+
+
+
+% ATTENTION faire \newcommand{\derivation[3]} ne marche pas, PAS DE CROCHETS ici
+% permet d'écrire plus vite une dérivation par un d/dx^i...
+
+% Commandes pour pouvoir coder les restrictions 
+% de fonctions: \restriction{}{}
+%
+\def\restriction#1#2{\mathchoice
+              {\setbox1\hbox{${\displaystyle #1}_{\scriptstyle #2}$}
+              \restrictionaux{#1}{#2}}
+              {\setbox1\hbox{${\textstyle #1}_{\scriptstyle #2}$}
+              \restrictionaux{#1}{#2}}
+              {\setbox1\hbox{${\scriptstyle #1}_{\scriptscriptstyle #2}$}
+              \restrictionaux{#1}{#2}}
+              {\setbox1\hbox{${\scriptscriptstyle #1}_{\scriptscriptstyle #2}$}
+              \restrictionaux{#1}{#2}}}
+\def\restrictionaux#1#2{{#1\,\smash{\vrule height .8\ht1 depth .85\dp1}}_{\,#2}} 
+
+\def\interieur#1{\overset{\circ}{#1}} 
+\def\ch#1{\overset{\bigtriangleup}{#1}}
+\def\cb#1{\overset{\bigtriangledown}{#1}}
+\newcommand{\argmin}{\mathop{\mathrm{arg\,min}}}
+\newcommand{\cor}{\mathop{\mathrm{cor}}}
+\def\tildee#1{\overset{\sim}{#1}}
+\newcommand{\Perp}{\perp \! \! \! \perp}
+
+
+
+
+
+\theoremstyle{plain}
+\newtheorem{thm}{Theorem}[section]
+\newtheorem*{thm*}{Theorem}
+\newtheorem{cort}[thm]{Corollary}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem*{prop*}{Proposition}
+\newtheorem*{prop4C*}{Proposition 4C}
+\newtheorem{corp}[thm]{Corollaire}
+\newtheorem{lemme}[thm]{Lemma}
+\newtheorem*{pté}{Property}
+\newtheorem{conj}[thm]{Conjecture}
+\newtheorem{thmFR}{Théorème}[section]
+\newtheorem*{thmFR2A*}{Théorème 2A}
+\newtheorem*{thmFR2B*}{Théorème 2B}
+\newtheorem*{thmFR2C*}{Théorème 2C}
+\newtheorem*{thmFR3A*}{Théorème 3A}
+\newtheorem*{thmFR3B*}{Théorème 3B}
+\newtheorem*{thmFR3C*}{Théorème 3C}
+\newtheorem*{thmFR3D*}{Théorème 3D}
+\newtheorem*{thmFR4A*}{Théorème 4A}
+\newtheorem*{thmFR4B*}{Théorème 4B}
+\newtheorem*{thmFR4C*}{Théorème 4C}
+
+\newtheorem*{thm2A}{Theorem 2A}
+\newtheorem*{thm2B}{Theorem 2B}
+\newtheorem*{thm2C}{Theorem 2C}
+\newtheorem*{thm3A}{Theorem 3A}
+\newtheorem*{thm3B}{Theorem 3B}
+\newtheorem*{thm3C}{Theorem 3C}
+\newtheorem*{thm3D}{Theorem 3D}
+\newtheorem*{thm4A}{Theorem 4A}
+\newtheorem*{thm4B}{Theorem 4B}
+\newtheorem*{thm4C}{Theorem 4C}
+\newtheorem{thmFR*}{Théorème}
+\newtheorem{cortFR}[thm]{Corollaire}
+\newtheorem{propFR}[thm]{Proposition}
+\newtheorem{corpFR}[thm]{Corollaire}
+\newtheorem{lemmeFR}[thm]{Lemme}
+\newtheorem*{ptéFR}{Propriété}
+\newtheorem{conjFR}[thm]{Conjecture}
+
+
+\theoremstyle{remark}
+\newtheorem*{Intro}{Introduction}
+\newtheorem*{remarque}{Remark}
+\newtheorem*{remarqueFR}{Remarque}
+\newtheorem*{explication}{explanation}
+\newtheorem*{interpretation}{Interpretation}
+\newtheorem{exo}{Exercice}
+\newtheorem*{exe}{Example}
+\newtheorem*{exeFR}{Exemple}
+\newtheorem*{rap}{Reminder}
+\newtheorem*{NB}{Nota Bene}
+\newtheorem*{esq}{Sketch of proof}
+\newtheorem*{esqFR}{Esquisse de Preuve}
+
+
+
+
+\theoremstyle{definition}
+\newtheorem{question}{Question de Cours}
+\newtheorem*{idée}{Sketch of the proof}
+\newtheorem*{rappel}{Reminder}
+\newtheorem{supp}{Hypothesis}
+\newtheorem*{donn}{Information}
+\newtheorem*{obs}{Observation}
+\newtheorem*{Hyp}{Assumpion}
+\newtheorem{post}{Postulate}
+\newtheorem{definition}[thm]{Definition}
+\newtheorem*{modeli}{Problem modelisaton}
+\newtheorem*{Obj}{Goal}
+\newtheorem*{construction}{Construction}
+\newtheorem*{enoncé}{Wording}
+\newtheorem*{refor}{Reformulation}
+\newtheorem*{Not}{Notations}
+\newtheorem*{csq}{Consequence}
+\newtheorem*{ppes}{Principle}
+
+\newtheorem*{idéeFR}{Esquisse de Preuve}
+\newtheorem*{rappelFR}{Rappel}
+\newtheorem{suppFR}{Hypothèses}
+\newtheorem*{donnFR}{Données}
+\newtheorem*{obsFR}{Observation}
+\newtheorem*{HypFR}{Hypothèses}
+\newtheorem{postFR}{Postulat}
+\newtheorem{definitionFR}[thm]{Définition}
+\newtheorem*{modeliFR}{Problème de Modélisaton}
+\newtheorem*{ObjFR}{But}
+\newtheorem*{constructionFR}{Construction}
+\newtheorem*{enoncéFR}{Enoncé}
+\newtheorem*{reforFR}{Reformulation}
+\newtheorem*{NotFR}{Notations}
+\newtheorem*{csqFR}{Conséquences}
+\newtheorem*{ppesFR}{Principe}
+
+
