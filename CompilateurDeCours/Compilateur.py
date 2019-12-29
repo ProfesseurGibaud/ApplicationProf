@@ -1,7 +1,7 @@
 import os
 import codecs
 def dossier():
-    os.chdir("Google Drive//Python//Compilateur de Cours")
+    os.chdir("Google Drive//Python//ApplicationProf//Compilateur de Cours")
 dossier()
 os.chdir("Test")
 
