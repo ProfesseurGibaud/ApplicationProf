@@ -1,5 +1,13 @@
 import os
 
+
+if __name__ != "__main__":
+    import sys
+    Dossier_courant = os.path.dirname(os.path.abspath(__file__))
+    Dossier_parent = os.path.dirname(Dossier_courant)
+    sys.path.append(Dossier_courant)
+
+
 def dossier():
     os.chdir("Google Drive//Python//ApplicationProf//GenerateurExercice")
 
