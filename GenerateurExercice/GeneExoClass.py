@@ -1,4 +1,9 @@
 import os
+
+def dossier():
+    os.chdir("Google Drive//Python//ApplicationProf//GenerateurExercice")
+
+
 import shutil
 from ExerciceClasse import *
 import random as rd
@@ -28,7 +33,7 @@ Correction.close()
 ******************************************
 Fonction d'\\'ecriture
 ******************************************
-"""    
+"""
 
 def WriteSection(type,difficulte):
     TitreSection = "\n \section{Exercices de " + type + " " + difficulte + "s" + "}"
@@ -107,7 +112,7 @@ def PreIncomp():
     with open("Exo.txt","a") as Exo:
         Exo.write("\\documentclass[a4paper,oneside,11pt]{article} \n")
         Exo.write("\\usepackage[utf8]{inputenc} \n \\usepackage[T1]{fontenc} \n \\usepackage{textcomp} \n  \\usepackage[french]{babel} \n \\usepackage[autolanguage]{numprint} \n \\usepackage{amsmath,amssymb,amsthm} \n \setlength{\hoffset}{-20pt}   \n")
-    
+
 def PreTitre(Titre,Auteur):
     if len(str(Titre))< 10:
         title = "Devoir d'Entrainement"
@@ -120,7 +125,7 @@ def PreTitre(Titre,Auteur):
     with open("Exo.txt","a") as Exo:
         Exo.write("\\title{"+title+"} \n")
         Exo.write("\n \\author{" + author + "}")
-    
+
 def PreDate(Date):
     if len(str(Date))<3:
         date = "\n \\date{\\`A rendre ou pas :) }"
@@ -251,7 +256,6 @@ def DicoExoGene():
             DicoExo[TType[i]]["Moyen"] = v
             print("Ajouté")
     return DicoExo
-
 
 
 

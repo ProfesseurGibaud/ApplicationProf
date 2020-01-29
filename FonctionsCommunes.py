@@ -1,7 +1,7 @@
 import os
 
 def dossier():
-    os.chdir("Google Drive//ApplicationProf")
+    os.chdir("Google Drive//Python//ApplicationProf")
 
 def GeneExo():
     os.chdir("GenerateurExercice")
@@ -10,3 +10,4 @@ def GeneExo():
     os.chdir("..")
 
 
+from GenerateurExercice.GeneExoClass import *

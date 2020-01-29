@@ -1,8 +1,8 @@
 Nom,Prénom,Sexe,Présences,Bavardages répétés,Refuse de changer de place ,N'a pas son matériel,S'esclaffe en cours,Dort en classe,Casquette + Pas Bonjour,Fait des bruits d'animaux,Devoirs non faits,Se retourne vers ses camarades,Parle fort,Fait rire ses camarades,Répond au professeur,Refuse de donner son carnet ,N'a pas son carnet,Utilisation abusive d'Internet
 ALI MESSIAD,Mounir,H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BOULA,Solène,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BOULOT,Jordine,F,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-BOUMAIZA,Hachem,H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BOULA,Solène,F,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+BOULOT,Jordine,F,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+BOUMAIZA,Hachem,H,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 CASTRE,Gregory,H,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 DAMASSE,Benji,H,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 DAOU,Liwaa,H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

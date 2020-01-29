@@ -4,7 +4,21 @@ from sympy.abc import x,y
 from sympy import linsolve
 from sympy import Function, Symbol
 from sympy import functions
+import sympy as sp
+import numpy as np
 
+from sympy.solvers.inequalities import reduce_rational_inequalities
+from sympy.solvers.inequalities import solve_rational_inequalities
+from sympy import solveset,S,Interval
+from sympy import together
+from sympy.abc import x,y
+from sympy import linsolve
+from sympy import Function, Symbol
+from sympy import functions
+from sympy.functions.elementary import *
+from sympy.simplify.simplify import *
+from sympy import fraction, Rational, Symbol
+import sympy.assumptions.handlers
 from copy import *
 import random as rd
 """
