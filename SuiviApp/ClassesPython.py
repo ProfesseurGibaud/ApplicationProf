@@ -2,60 +2,6 @@ from datetime import datetime as date
 import csv
 from copy import *
 
-
-
-
-
-def CSV_Vers_DicoClasse():
-    # On va charger toutes les listes de toutes les classes.
-    Dico = {}
-    path = os.getcwd()
-    TempListe = []
-    os.chdir("Classes")
-    for classe in os.listdir():
-        nomclasse = classe[:len(classe) - 4]
-        print(nomclasse)
-        TempListe.clear()
-        try:
-            print(classe)
-            cr = csv.DictReader(open(classe, "r"))
-            for row in cr:
-                tempdico = dict(row)
-                TempListe.append(list(tempdico.values()))
-            print(TempListe[0][1])
-            Dico[nomclasse] = TempListe
-            Dico = deepcopy(Dico)
-            print(Dico[nomclasse][0][1])
-        except IOError:
-            print("Erreur! Csv Vers DicoClasse")
-    os.chdir(path)
-    return Dico
-
-def DicoSimple(Dico):
-    dico = {}
-    for classe in Dico:
-        dico[classe] = []
-        Liste = Dico[classe]
-        for eleve in Liste:
-            dico[classe].append(eleve[0:2])
-    return dico
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class Date:
     def __init__(self):
         self.Annee = 0
@@ -76,15 +22,6 @@ class Date:
         D = Date()
         D.Update(Str)
         return (self.Annee == D.Annee) and (self.Mois == D.Mois) and (self.Jour == D.Jour) and (abs(D.Heure - self.Heure)<3)
-
-
-
-
-
-
-
-
-
 
 
 class Eleve:
@@ -122,19 +59,3 @@ class Eleve:
             self.InvestissementPrevu = self.dico["À quel point comptez vous vous investir EN CLASSE d'aujourd'hui ?"]
         else:
             self.InvestissementReel = self.dico["Notez vos efforts EN CLASSE aujourd'hui"]
-
-
-
-
-
-def ListeMaintenant(ListeDico):
-    L = []
-    for dicoEleve in ListeDico:
-        D = Date()
-        D.Update(dicoEleve["Horodateur"])
-        if D.Maintenant():
-            L.append(Eleve(dicoEleve))
-    return L
-
-
-
