@@ -3,8 +3,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
 import os
 
+
 def dossier():
-    os.chdir("Google Drive//Python//Google Form//Google Form treatment")
+    os.chdir("Google Drive//Python//ApplicationProf//SuiviApp")
 
 dossier()
 
@@ -31,3 +32,5 @@ Dico : Clé Nom Défini Nombre d'apparition
 """
 
 pprint(dataDebut[5].values())
+
+
