@@ -12,18 +12,14 @@ def CSV_Vers_DicoClasse():
     os.chdir("Classes")
     for classe in os.listdir():
         nomclasse = classe[:len(classe) - 4]
-        print(nomclasse)
         TempListe.clear()
         try:
-            print(classe)
             cr = csv.DictReader(open(classe, "r"))
             for row in cr:
                 tempdico = dict(row)
                 TempListe.append(list(tempdico.values()))
-            print(TempListe[0][1])
             Dico[nomclasse] = TempListe
             Dico = deepcopy(Dico)
-            print(Dico[nomclasse][0][1])
         except IOError:
             print("Erreur! Csv Vers DicoClasse")
     os.chdir(path)
@@ -81,3 +77,23 @@ def NomDansListe(Nom,Liste):
         bool = bool or CompNom(Nom,eleve)
     return bool
 
+def AppelMini(Classe,Liste):
+    ListeAbsent = []
+    GrosDico = CSV_Vers_DicoClasse()
+    DicoClasse = DicoSimple(GrosDico)
+    ListeEleveClasse = DicoClasse[Classe]
+    for NomEleve in ListeEleveClasse:
+        if not NomDansListe(NomEleve,Liste):
+            NomAbsent = NomEleve[1].capitalize() + " " + NomEleve[0].capitalize()
+            ListeAbsent.append(NomAbsent)
+    return ListeAbsent
+
+def AppelGros(Classe,Liste,GrosDico):
+    ListeAbsent = []
+    DicoClasse = DicoSimple(GrosDico)
+    ListeEleveClasse = DicoClasse[Classe]
+    for NomEleve in ListeEleveClasse:
+        if not NomDansListe(NomEleve,Liste):
+            NomAbsent = NomEleve[1].capitalize() + " " + NomEleve[0].capitalize()
+            ListeAbsent.append(NomAbsent)
+    return ListeAbsent
