@@ -1,6 +1,13 @@
+import os
+if __name__ == '__main__':
+    os.chdir("Google Drive//Python//ApplicationProf//SuiviApp")
 from datetime import datetime as date
 import csv
 from copy import *
+import matplotlib.pyplot as plt
+
+
+
 from ClassesPython import *
 
 
@@ -72,28 +79,71 @@ def CompNom(Nom,Eleve): #Attention pas Symétrique
     return boolNom and boolPrenom
 
 def NomDansListe(Nom,Liste):
-    bool = False
+    ell = 0
     for eleve in Liste:
-        bool = bool or CompNom(Nom,eleve)
-    return bool
+        if CompNom(Nom,eleve):
+            ell = eleve
+    return ell
+
+def AppelGros(Classe,Liste,GrosDico):
+    ListeAbsent = []
+    ListePresent = []
+    DicoClasse = DicoSimple(GrosDico)
+    ListeEleveClasse = DicoClasse[Classe]
+    for NomEleve in ListeEleveClasse:
+        ell = NomDansListe(NomEleve,Liste)
+        if ell == 0:
+            NomAbsent = NomEleve[1].capitalize() + " " + NomEleve[0].capitalize()
+            ListeAbsent.append(NomAbsent)
+        else:
+            ListePresent.append(ell)
+    return (ListePresent,ListeAbsent)
+
 
 def AppelMini(Classe,Liste):
     ListeAbsent = []
     GrosDico = CSV_Vers_DicoClasse()
-    DicoClasse = DicoSimple(GrosDico)
-    ListeEleveClasse = DicoClasse[Classe]
-    for NomEleve in ListeEleveClasse:
-        if not NomDansListe(NomEleve,Liste):
-            NomAbsent = NomEleve[1].capitalize() + " " + NomEleve[0].capitalize()
-            ListeAbsent.append(NomAbsent)
-    return ListeAbsent
+    (ListePresent,ListeAbsent) = AppelGros(Classe,Liste,GrosDico)
+    return (ListePresent,ListeAbsent)
 
-def AppelGros(Classe,Liste,GrosDico):
-    ListeAbsent = []
-    DicoClasse = DicoSimple(GrosDico)
-    ListeEleveClasse = DicoClasse[Classe]
-    for NomEleve in ListeEleveClasse:
-        if not NomDansListe(NomEleve,Liste):
-            NomAbsent = NomEleve[1].capitalize() + " " + NomEleve[0].capitalize()
-            ListeAbsent.append(NomAbsent)
-    return ListeAbsent
+ListeAttribut = ["Nom","Date","Prénom","Classe","Question Prévue", "Question Posée", "Effort Maison Prévue", "Effort Maison Réel", "Investissement Prévu", "Investissement Réel"]
+
+def RecupAttribut(Liste,Attribut):
+    LL = []
+    a = Attribut
+    for eleve in Liste:
+        if a == "Nom":
+            LL.append(eleve.Nom)
+        if a == "Date":
+            LL.append(eleve.Date)
+        if a == "Prénom":
+            LL.append(eleve.Prenom)
+        if a == "Classe":
+            LL.append(eleve.Classe)
+        if a == "Question Prévue":
+            LL.append(eleve.QuestionPrevue)
+        if a == "Question Posée":
+            LL.append(eleve.QuestionPosee)
+        if a == "Effort Maison Prévue":
+            LL.append(eleve.EffortMaisonPrevu)
+        if a == "Effort Maison Réel":
+            LL.append(eleve.EffortMaisonReel)
+        if a == "Investissement Prévu":
+            LL.append(eleve.InvestissementPrevu)
+        if a == "Investissement Réel":
+            LL.append(eleve.InvestissementReel)
+    return LL
+
+def Histogramme(Liste):
+    ListeX = list(range(min(Liste)-2,max(Liste)+3))
+    ListeY = []
+    for i in ListeX:
+        ListeY.append(Liste.count(i))
+    return (ListeX,ListeY)
+
+def FaireHisto(Liste,NomStr):
+    (ListeX,ListeY) = Histogramme(Liste)
+    plt.plot(ListeX,ListeY)
+    path = ""
+    plt.save(path +Str + ".png")
+
