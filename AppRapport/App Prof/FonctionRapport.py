@@ -16,6 +16,7 @@ On importe les pakage nécessaires pour récupérer les données et les traiter
 """
 
 import csv # Pour utiliser des csv
+import sqlite3
 import os # Pour naviguer dans l'OS
 from collections import OrderedDict #Le paquet csv génère des OrderedDict, je prends ce paquet pour les convertir
 
@@ -112,6 +113,7 @@ def LireCSVversDico(string): #Fonction intermediaire pour avoir un dico modifiab
     return DicoEleve
 
 
+
 # Idem ici
 def EcrireCsvDeDico(string,dico):
     fieldnames = Fieldnames()
@@ -127,15 +129,19 @@ def EcrireCsvDeDico(string,dico):
 
 
 def MAJ_Eleve(nom,classe,motif): #Fonction à utiliser pour Ajouter un tick au compteur de rapport
+    conn = sqlite3.connect("Eleve.db")
+    cursor = conn.cursor()
 
-    # On utilise la fonction LireCSV que l'on vient de faire pour avoir un dictionnaire d'Eleves 
-    DicoEleves = LireCSVversDico(classe)
-    # On appelle n le nombre de rapport pour le motif (mis en entrée) pour l'élève (mis en entrée). On lis un string, pour pouvoir le travailler je le transforme en entier via int.
-    n = int(DicoEleves[nom][motif])
-    # On modifie le dictionnaire en mettant la valeur n+1 (on le transforme en string en utilisant la commande str)
-    DicoEleves[nom][motif] = str(n+1)
-    #On utilise la fonction EcrireCsvDeDico pour réecrire le csv.
-    EcrireCsvDeDico(classe,DicoEleves)
+    DicoTrad = {"Bavardages répétés": "Bavardages", "Refuse de changer de place ": "ChangePlace","N'a pas son matériel": "Materiel", "S'esclaffe en cours": "Rigole","Dort en classe": "Dort","Casquette + Pas Bonjour" : "CasquetteBonjour", "Fait des bruits d'animaux": "Animaux", "Devoirs non faits": "DevoirNonFaits","Se retourne vers ses camarades": "Retourne", "Parle fort" : "ParleFort", "Fait rire ses camarades": "FaitRire", "Répond au professeur" : "Repond","Refuse de donner son carnet ": "RefuseCarnet","N'a pas son carnet" : "PasCarnet", "Utilisation abusive d'Internet" : "Internet" }
+
+    #On cherche le nombre de fois où il y a eu ce motif dans la Base de données
+    cursor.execute("SELECT {} FROM Eleve WHERE Nom = '{}'".format(DicoTrad[motif],nom))
+    for i in cursor:
+        n = i[0]
+
+    # On met à jour la base de données avec la nouvelle itération du motif.
+    cursor.execute("UPDATE Eleve SET {} = {} WHERE Nom = '{}'".format(DicoTrad[motif],n+1,nom))
+
     
     
 # Commenter en exercice.
@@ -146,6 +152,5 @@ def MAJ_Eleve_Presence(nom,classe):
     EcrireCsvDeDico(classe,DicoEleves)
     
     
-
 
 

@@ -1,5 +1,6 @@
 import random as rd # On importe un package pour mettre de l'aléa
 import os
+import sqlite3
 from copy import *
 def dossier():
     import os
@@ -24,9 +25,18 @@ def FichierEleve(classe,nom):
 
 
 def TexteMotif(classe,nom,ListeMotifs):
-    DicoEleve = FichierEleve(classe,nom)
+    conn = sqlite3.connect("Eleve.db")
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM ELEVE WHERE Nom = '{}' AND Classe = '{}'".format(nom,classe))
+    for eleve in cursor:
+        if eleve["Classe"] == classe:
+            DicoEleve = dict(eleve)
+        else :
+            print("Erreur dans TexteMotif")
+    #DicoEleve = FichierEleve(classe,nom)
     DicoPh = DicoPhrases()
-    Prenom = DicoEleve["Prénom"]
+    Prenom = DicoEleve["Prenom"]
     Nom = DicoEleve["Nom"]
     Sexe = (DicoEleve["Sexe"]=="F")*"elle" + (DicoEleve["Sexe"]=="H")*"il"
     Conj = deepcopy(ConjCoord)
@@ -34,6 +44,7 @@ def TexteMotif(classe,nom,ListeMotifs):
     for i in range(0,len(ListeMotifs)):
         u = rd.randint(0,2)
         if i == 0:
+            #Manque traduction entre les motifs affichés et ceux de la base de données : Faire un dico de correspondance
             add = DicoPh[ListeMotifs[i]][u].format(Prenom,Sexe)
             add = add.capitalize()
         else :
@@ -46,11 +57,8 @@ def TexteMotif(classe,nom,ListeMotifs):
             v = rd.randint(0,len(Conj)-1)
             String = String + Conj.pop(v)
     return String
-        
-        
-        
 
-
+        
 
 
 
@@ -68,9 +76,9 @@ def DicoPhrases():
     dico["Parle fort"] = ["{} parle fort et perturbe le cours.", "L'attitude de {} n'est pas acceptable : {} parle fort et perturbe la classe.", "{} s'exclamme en cours de mathématiques et perturbe le cours."]  #Après les : {sexe}
     dico["Fait rire ses camarades"] = ["{} s'amuse à faire rire ses camarades et perturbe le cours.", "{} passe plus de temps à amuser ses camarades qu'à travailler.", "Le cours n'est pas un lieu pour faire rire ses camarades comme le pense {}." ]
     dico["Répond au professeur"] = ["{} est insolent et répond au professeur.", "L'attitude de {} est inacceptable, {} est insolent et ne cesse de répondre au professeur.", "{} n'accepte pas les remarques et répond au professeur."] #Après la virgule {sexe}
-    dico["Refuse de donner son carnet"] = ["{} refuse de donner son carnet.", "Après réprimande, {} refuse de donner son carnet au professeur.", "{} perturbe la classe et refuse de donner son carnet au professeur."]
+    dico["Refuse de donner son carnet "] = ["{} refuse de donner son carnet.", "Après réprimande, {} refuse de donner son carnet au professeur.", "{} perturbe la classe et refuse de donner son carnet au professeur."]
     dico["N'a pas son carnet"] = ["{} vient en cours sans son carnet."," {} n'a pas son carnet.", "{} est venu en cours sans avoir son carnet."]
-    dico["Utilisation abusive d'internet"] = ["{} va sur des sites qui n'ont rien à voir avec le cours.","{} n'a pas respecté les conditions d'utilisation d'internet en classe.","{} va sur des sites qui n'ont rien à voir avec le cours."]
+    dico["Utilisation abusive d'Internet"] = ["{} va sur des sites qui n'ont rien à voir avec le cours.","{} n'a pas respecté les conditions d'utilisation d'internet en classe.","{} va sur des sites qui n'ont rien à voir avec le cours."]
     return dico
 
 

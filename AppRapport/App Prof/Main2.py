@@ -1,22 +1,16 @@
 from kivy.app import App
-from kivy.core.window import Window
-from kivy.base import EventLoop
-from kivy.factory import Factory
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.button import Button
 from kivy.uix.label import Label
-from kivy.properties import VariableListProperty
-from kivy.properties import ObjectProperty, ListProperty, StringProperty, NumericProperty
 from kivy.uix.scrollview import ScrollView
-from kivy.lang import Builder
 from kivy.uix.textinput import TextInput
-from kivy.cache import Cache
 from PyPDF2 import PdfFileMerger
 from copy import *
 import os
+import sqlite3
 import csv
 from Rapport import *
 from FonctionPdf import *
@@ -24,12 +18,12 @@ import random
 from datetime import *
 from FonctionRapport import *
 
-
+#Permet d'écrire la date
 def today():
     D = datetime.today()
     return str(D.day) + " " + str(D.month) + " " + str(D.year)
 
-
+#Vérifie que la date correspond à aujourd'hui
 def checkToday(str):
     booleen = False
     path = os.getcwd()
@@ -44,7 +38,7 @@ def checkToday(str):
     os.chdir(path)
     return booleen
 
-
+#Permet d'écrire dans un texte la date
 def StampToday(str):
     import os
     path = os.getcwd()
@@ -56,7 +50,7 @@ def StampToday(str):
 
 def dossier():
     import os
-    os.chdir("Google Drive//Python//Application Prof//App Prof")
+    os.chdir(r"C:\Users\Sylgi\Desktop\Python Temp\ApplicationProf\AppRapport\App Prof")
 
 
 # dossier()
@@ -65,11 +59,11 @@ def dossier():
 def DicoVersListeNomPrenom(DicoClasse):
     Liste = []
     for nom in DicoClasse:
-        TempListe = [DicoClasse[nom]["Nom"], DicoClasse[nom]["Prénom"]]
+        TempListe = [DicoClasse[nom]["Nom"], DicoClasse[nom]["Prenom"]]
         Liste.append(TempListe)
     return Liste
 
-
+#Fonction de Lecture de CSV pour placer les places du plan de classe
 def LireListeCsvInt(str):
     with open(str + ".txt") as file:
         r = csv.reader(file)
@@ -82,6 +76,7 @@ def LireListeCsvInt(str):
     return LL
 
 
+#Permet de mélanger les noms d'une lise (comme un rd.shuffle mais une des premières fonctions de mes élèves)
 def listenum(liste):
     # On fait une liste vide appelée lliste
     lliste = []
@@ -109,42 +104,11 @@ def listenum(liste):
         # La fonction envoie en sortie listefinale qui est la liste mais mélangée.
     return listefinale
 
+"""
 
-def CSV_Vers_DicoClasse():
-    # On va charger toutes les listes de toutes les classes.
-    Dico = {}
-    tempdico = {}
-    path = os.getcwd()
-    TempListe = []
-    os.chdir("Classes")
-    for classe in os.listdir():
-        nomclasse = classe[:len(classe) - 4]
-        print(nomclasse)
-        # TempListe.clear()
-        tempdico.clear()
-        os.chdir(path)
-        tempdico = LireCSVversDico(nomclasse)
-        Dico[nomclasse] = tempdico
-        Dico = deepcopy(Dico)
+Paquet de petite fonctions utiles de manipulation de fichiers
 
-        """
-        try:
-            os.chdir(path)
-            tempdico = LireCSVversDico(nomclasse)
-            # print(classe)
-            # #cr = csv.reader(open(classe, "r"))
-            # cr = csv.DictReader(open(classe, "r"))
-            # for row in cr:
-            #     tempdico = dict(row)
-            #     print(tempdico)
-            #     TempListe.append(list(tempdico.values()))
-            Dico[nomclasse] = tempdico
-            Dico = deepcopy(Dico)
-        except IOError:
-            print("Erreur! Csv Vers DicoClasse")
-        """
-    return Dico
-
+"""
 
 def StrW(fichier, string):
     with open(fichier + ".txt", "w") as file:
@@ -185,6 +149,68 @@ def PrepLabel(DicoLabel, str):
     DicoLabel[str] = Label(text=str)
     return DicoLabel
 
+"""
+
+Lecture et Modification Base de Données
+
+"""
+
+
+def LireCSVversDico(string): #Fonction intermediaire pour avoir un dico modifiable
+    path = os.getcwd()
+    os.chdir("Classes")
+    with open(string + ".csv","r") as file:
+        reader = csv.DictReader(file)
+        DicoEleve = {} # Chaque item sera un dico
+        for row in reader:
+            DicoEleve[dict(row)["Nom"]] = dict(row)
+    os.chdir(path)
+    return DicoEleve
+
+#On va charger toutes les listes de toutes les classes
+def BDD_Vers_DicoClasse():
+    conn = sqlite3.connect('Eleve.db')
+    conn.row_factory = sqlite3.Row
+    Dico = {}
+    DicoEleve = {}
+    cursor = conn.cursor()
+    cursor2 = conn.cursor()
+    cursor.execute("""SELECT nom FROM Classe""")
+    for classe in cursor:
+        nomclasse = classe[0]
+        print(nomclasse)
+        DicoEleve.clear()
+        cursor2.execute("SELECT * FROM Eleve WHERE Classe = '{}'".format(nomclasse))
+        Eleves = cursor2.fetchall()
+        for eleve in Eleves:
+            DicoEleve[dict(eleve)["Nom"]] = dict(eleve)
+        Dico[nomclasse] = DicoEleve
+        Dico = deepcopy(Dico)
+    return Dico
+
+
+
+
+def CSV_Vers_DicoClasse():
+    # On va charger toutes les listes de toutes les classes.
+    Dico = {}
+    tempdico = {}
+    path = os.getcwd()
+    TempListe = []
+    os.chdir("Classes")
+    for classe in os.listdir():
+        nomclasse = classe[:len(classe) - 4]
+        print(nomclasse)
+        # TempListe.clear()
+        tempdico.clear()
+        os.chdir(path)
+        tempdico = LireCSVversDico(nomclasse)  #tempDico est un dico pour un élève
+        Dico[nomclasse] = tempdico
+        Dico = deepcopy(Dico)
+
+    return Dico
+
+
 
 def restart():
     ListePunis = []  # liste avec les noms des punis
@@ -204,7 +230,8 @@ def restart():
     CompteurRapport = 0
     LabelEleve = Label()
     # ListeSeconde = CSV_Vers_ListeSeconde(ListeSeconde)
-    Dico = CSV_Vers_DicoClasse()
+    #Dico = CSV_Vers_DicoClasse()
+    Dico = BDD_Vers_DicoClasse()
     TextInputSanction = TextInput()
     TextInputPunition = TextInput()
     DicoLabel = {}
@@ -239,7 +266,8 @@ def restartP():
     CompteurRapport = 0
     LabelEleveP = Label()
     # ListeSeconde = CSV_Vers_ListeSeconde(ListeSeconde)
-    Dico = CSV_Vers_DicoClasse()
+    Dico = BDD_Vers_DicoClasse()
+    #Dico = CSV_Vers_DicoClasse()
     TextInputSanctionP = TextInput()
     TextInputPunitionP = TextInput()
     DicoLabelP = {}
