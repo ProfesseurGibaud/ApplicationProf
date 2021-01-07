@@ -56,6 +56,7 @@ def TexteMotif(classe,nom,ListeMotifs):
         if i < len(ListeMotifs) -2:
             v = rd.randint(0,len(Conj)-1)
             String = String + Conj.pop(v)
+    conn.close()
     return String
 
         

@@ -189,7 +189,7 @@ def PdfLatex(ZeroOuUn,Titre):
         print("Que fait on ?")
     with open("Exo.txt","a") as Exo:
         Exo.write("\n \\end{document}")
-    os.system("pdflatex Exo.txt")
+    os.system("pdflatex Exo.txt") #On lance pdflatex // Mettre à la place texlive_on_fly
     os.remove("Exo.txt")
     if ZeroOuUn == 1:
         os.remove("Correction.txt")
