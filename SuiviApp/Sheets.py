@@ -21,6 +21,8 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.boxlayout import BoxLayout
 
 from kivy.uix.label import Label
+import PIL
+
 
 
 if os.getcwd != r"C:\Users\Sylgi\Google Drive\Python\ApplicationProf\SuiviApp":
@@ -179,7 +181,7 @@ plt.pie(CountInvest, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=False, startangle=90)
 
 plt.axis('equal')
-
+plt.suptitle("Investissement",fontsize = 16)
 plt.savefig("Pictures/Invest.png")
 
 
@@ -207,7 +209,7 @@ plt.pie(CountMaison, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=False, startangle=90)
 
 plt.axis('equal')
-
+plt.suptitle("Maison",fontsize = 16)
 plt.savefig("Pictures/Maison.png")
 
 
@@ -217,16 +219,30 @@ plt.savefig("Pictures/Maison.png")
 Question
 
 """
-
 plt.clf()
+plt.rcParams["figure.figsize"] = (1, 5)
+
 
 CountQuestion = Question.count("Oui")/len(Question)
 
 currentAxis = plt.gca()
-
-currentAxis.add_patch(Rectangle((0,0), 1, CountQuestion,alpha=1,color = "Green"))
-
+k = 1
+currentAxis.add_patch(Rectangle((0,0), k, CountQuestion*k,alpha=1,color = "Green"))
+plt.suptitle("Question",fontsize = 16)
 plt.savefig("Pictures/Question.png")
+imgg = PIL.Image.open("Pictures/Question.png")
+width, height = imgg.size
+new_width = width/5
+new_height = height
+left = (width - new_width)/2
+top = (height - new_height)/2
+right = (width + new_width)/2
+bottom = (height + new_height)/2
+
+# Crop the center of the image
+imgg = imgg.crop((left, top, right, bottom))
+
+imgg.save("Pictures/Question.png")
 
 
 
@@ -276,7 +292,7 @@ class ScreenApp(App):
 
         TextLayout.cols = 2
 
-        TextLayout.size_hint_y = 0.2
+        TextLayout.size_hint_y = 0.1
 
         labelAbsent = Label(text = "Absents : ")
 
@@ -296,31 +312,21 @@ class ScreenApp(App):
 
         QuestionLayout.cols = 1
 
-        QuestionLabel = Label(text = "Question")
-
-        QuestionLabel.size_hint_y = 0.1
-
-        QuestionLayout.size_hint_x = 0.3
-
-        QuestionLayout.add_widget(QuestionLabel)
 
         QuestionImage = Image(source = "Pictures/Question.png")
-
+        QuestionLayout.size_hint_x = 0.2
         QuestionLayout.add_widget(QuestionImage)
 
         GridBas.add_widget(QuestionLayout)
 
         MaisonLayout = GridLayout(cols = 1)
 
-        MaisonLayout.add_widget(Label(text = "Maison",size_hint_y = 0.1))
 
         MaisonLayout.add_widget(Image(source = "Pictures/Maison.png"))
 
         GridBas.add_widget(MaisonLayout)
 
         InvestLayout = GridLayout(cols=1)
-
-        InvestLayout.add_widget(Label(text="Invest", size_hint_y=0.1))
 
         InvestLayout.add_widget(Image(source="Pictures/Invest.png"))
 
