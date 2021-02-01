@@ -25,10 +25,8 @@ import PIL
 
 
 
-if os.getcwd != r"C:\Users\Sylgi\Google Drive\Python\ApplicationProf\SuiviApp":
-
-    os.chdir(r"C:\Users\Sylgi\Google Drive\Python\ApplicationProf\SuiviApp")
-
+if os.getcwd != r"C:\Users\Sylgi\Desktop\Python Temp\ApplicationProf\SuiviApp":
+    os.chdir(r"C:\Users\Sylgi\Desktop\Python Temp\ApplicationProf\SuiviApp")
 
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
 
@@ -109,7 +107,7 @@ hour = "{:02d}".format(datetime.datetime.now().hour)
 minute = "{:02d}".format(datetime.datetime.now().minute)
 
 
-
+"""
 day = "{:02d}".format(3)
 
 month = "{:02d}".format(10)
@@ -119,7 +117,7 @@ year = "{:02d}".format(2019)
 hour = "{:02d}".format(10)
 
 minute = "{:02d}".format(17)
-
+"""
 
 
 
