@@ -15,10 +15,11 @@ from sympy import fraction, Rational, Symbol
 import sympy.assumptions.handlers
 from copy import *
 import random as rd
-
+"""
 if __name__ == '__main__':
     import os
     os.chdir("Google Drive//Python//ApplicationProf//GenerateurExercice")
+"""
 from Archive import *
 
 
