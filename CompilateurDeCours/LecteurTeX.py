@@ -9,7 +9,6 @@ On va faire deux bases de données. Une base avec toutes les définitions, théo
 On va faire une seconde Table rempli avec une structure d'arbre (On ouvre une branche par chapitre puis une autre par section. Chaque définiions,thm etc... aura une numéro de chapitre et de section (Ce sera fait juste à partir de mes cours.
 
 """
-type = "definition"
 
 tree = Tree()
 
@@ -17,8 +16,8 @@ def Chapter(ligne,TitreChapitre):
     global tree,subsectionOuiNon
     if r"\chapter{" in ligne and "Correction" not in ligne:
         TitreChapitre = ligne
-        TitreChapitre.replace(r"\chapter{", "")
-        TitreChapitre.replace(r"}", "")
+        TitreChapitre = TitreChapitre.replace(r"\chapter{", "")
+        TitreChapitre.replace("}", "")
         tree.create_node(TitreChapitre, TitreChapitre, parent="Root")
         subsectionOuiNon = False
     return TitreChapitre
@@ -27,8 +26,8 @@ def Section(ligne,TitreSection):
     global subsectionOuiNon,SectionOuiNon,tree
     if r"\section{" in ligne:
         TitreSection = ligne
-        TitreSection.replace(r"\section{", "")
-        TitreSection.replace(r"}", "")
+        TitreSection = TitreSection.replace(r"\section{", "")
+        TitreSection = TitreSection.replace(r"}", "")
         tree.create_node(TitreSection, TitreSection, parent=TitreChapitre)
         subsectionOuiNon = False
         SectionOuiNon = True
@@ -38,13 +37,13 @@ def SubSection(ligne,TitreSubSection):
     global subsectionOuiNon,tree
     if r"\subsection{" in ligne:
         TitreSubSection = ligne
-        TitreSubSection.replace(r"\subsection{", "")
-        TitreSubSection.replace(r"}", "")
+        TitreSubSection = TitreSubSection.replace(r"\subsection{", "")
+        TitreSubSection = TitreSubSection.replace(r"}", "")
         tree.create_node(TitreSubSection, TitreSubSection, parent=TitreSection)
         subsectionOuiNon = True
     return TitreSubSection
 
-def LectureType(ligne,type):
+def LectureType(ligne,type):  #Fonction en Cours pour eviter de refaire n fois la lecture. Il faudra peut être Faire un Dico pour les tempcontainer
     global DicoRecord,DicoTempRecorder,DicoContainer,compteur
 
 
@@ -60,8 +59,6 @@ def LectureType(ligne,type):
         DicoRecord[type]  = True
 
 
-
-    pass #Fonction en Cours pour eviter de refaire n fois la lecture. Il faudra peut être Faire un Dico pour les tempcontainer
 
 
 Type = ["definition","theorem", "example","proof"]
