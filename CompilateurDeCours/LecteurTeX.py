@@ -44,12 +44,30 @@ def SubSection(ligne,TitreSubSection):
         subsectionOuiNon = True
     return TitreSubSection
 
-def LectureType(ligne,tempcontainer):
+def LectureType(ligne,type):
+    global DicoRecord,DicoTempRecorder,DicoContainer,compteur
+
+
+    if r"\end{"+type+r"}" in ligne:
+        DicoRecord[type] = False
+        DicoContainer[type].append(DicoTempRecorder[type])
+        tree.create_node(type + " {0:0=02d}".format(compteur),str(compteur),data=DicoTempRecorder[type],parent=parent)
+        compteur += 1
+        DicoTempRecorder[type] = ""
+    if DicoRecord[type]  == True:
+        DicoTempRecorder[type] += ligne
+    if r"\begin{" + type + r"}" in ligne:
+        DicoRecord[type]  = True
+
+
+
     pass #Fonction en Cours pour eviter de refaire n fois la lecture. Il faudra peut être Faire un Dico pour les tempcontainer
 
 
 Type = ["definition","theorem", "example","proof"]
 DicoRecord = {"definition":False,"theorem":False,"example":False,"proof":False}
+DicoTempRecorder = {"definition":"","theorem":"","example":"","proof":""}
+DicoContainer = {"definition":[],"theorem":[],"example":[],"proof":[]}
 
 with codecs.open("CoursPremièreGibaud T1.tex","r", encoding = 'utf-8') as file:
     Container = []
@@ -66,11 +84,20 @@ with codecs.open("CoursPremièreGibaud T1.tex","r", encoding = 'utf-8') as file:
         TitreChapitre = Chapter(ligne,TitreChapitre)
         TitreSection = Section(ligne,TitreSection)
         TitreSubSection = SubSection(ligne,TitreSubSection)
-
         if subsectionOuiNon:
             parent = TitreSubSection
         elif SectionOuiNon:
             parent = TitreSection
+        for type in Type:
+            LectureType(ligne,type)
+
+
+tree.show()
+
+
+
+
+"""
 
 
         if r"\end{"+type+r"}" in ligne:
@@ -84,12 +111,7 @@ with codecs.open("CoursPremièreGibaud T1.tex","r", encoding = 'utf-8') as file:
         if r"\begin{" + type + r"}" in ligne:
             DicoRecord[type]  = True
 
-tree.show()
-
-
-
-
-
+"""
 
 
 
