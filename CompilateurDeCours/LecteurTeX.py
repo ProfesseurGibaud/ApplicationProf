@@ -1,6 +1,7 @@
 import os
 import codecs
 from treelib import Node,Tree
+import sympy as sp
 
 """
 
@@ -93,38 +94,3 @@ tree.show()
 
 
 
-
-"""
-
-
-        if r"\end{"+type+r"}" in ligne:
-            DicoRecord[type] = False
-            Container.append(tempcontainer)
-            tree.create_node("Def " + "{0:0=02d}".format(compteur),str(compteur),data=tempcontainer,parent=parent)
-            compteur += 1
-            tempcontainer = ""
-        if DicoRecord[type]  == True:
-            tempcontainer += ligne
-        if r"\begin{" + type + r"}" in ligne:
-            DicoRecord[type]  = True
-
-"""
-
-
-
-
-
-"""
-
-
-tree2 = Tree()
-tree2.create_node("Nom","Adresse")
-
-tree2.create_node(1,"a",data=3,parent="Adresse")
-tree2.create_node(2,"b",data=5,parent="Adresse")
-tree2.show()
-N = (tree2.get_node("a"))
-print(N.data)
-
-
-"""
