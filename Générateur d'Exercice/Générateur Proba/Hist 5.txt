@@ -1,0 +1,15 @@
+Changer les proportion dans l'urne :)
+
+
+Chaque année, deux villages A et B organisent un concours sportif. Les concurrents tirent au sort un
+moyen de transport puis doivent relier le village A au village B le plus rapidement possible en utilisant
+ce moyen de transport et un parcours adapté. Pour le tirage, on utilise une urne contenant 4 jetons
+indiscernables au toucher. Sur un premier jeton figure la lettre V , sur le second la lettre R, sur le troisième
+la lettre P et sur le dernier la lettre L.
+Un concurrent tire au hasard un jeton :
+– s’il tire le jeton sur lequel figure la lettre V, il effectuera le trajet à vélo,
+– s’il tire le jeton sur lequel figure la lettre R, Il effectuera le trajet en roller,
+– s’il tire le jeton sur lequel figure la lettre P, il effectuera le trajet à pied,
+– s’il tire le jeton sur lequel figure la lettre L, il choisira librement son mode de transport parmi les
+trois précédents.
+On observe que lorsqu’un concurrent tire le jeton sur lequel figure la lettre L, il choisit le vélo dans 70%

@@ -1,0 +1,10 @@
+On dispose d’un test de dépistage de ce virus qui a les propriétés suivantes :
+– La probabilité qu’une personne contaminée ait un test positif est de {0} (sensibilité du test).
+– La probabilité qu’une personne non contaminée ait un test négatif est de {1} (spécificité du
+test).
+On fait passer un test à une personne choisie au hasard dans cette population.
+On note V l’évènement « la personne est contaminée par le virus » et T l’évènement « le test est positif ».
+V et T désignent respectivement les évènements contraires de V et T .
+
+{0} > 0.8
+{1} > 0.8

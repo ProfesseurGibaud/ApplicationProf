@@ -1,0 +1,7 @@
+"Pour embaucher ses cadres une entreprise fait appel à un cabinet de recrutement. La procédure retenue est la suivante. Le cabinet effectue une première sélection de candidats sur dossier."
+
+"{0} des dossiers reçus sont validés et transmis à l’entreprise. Les candidats ainsi sélectionnés passent un premier entretien à l’issue duquel".format(a)
+
+ "{0} d’entre eux sont retenus. Ces derniers sont convoqués à un ultime entretien avec le directeur des ressources humaines qui recrutera".format(b)
+
+ "{0} des candidats rencontrés.".format(c)

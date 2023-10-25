@@ -1,0 +1,124 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.8)  29 SEP 2023 17:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exo.txt
+(./Exo.txt
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/10/19 3.65 The Babel package
+\babel@savecnt=\count190
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(c:/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count191
+
+(c:/texlive/2021/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2021/07/20 v3.5m French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language29). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language29). Reported on input line 92.
+\FB@nonchar=\count192
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count193
+\FBold@everypar=\toks18
+\FB@Mht=\dimen140
+\mc@charclass=\count194
+\mc@charfam=\count195
+\mc@charslot=\count196
+\std@mcc=\count197
+\dec@mcc=\count198
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+))
+(c:/texlive/2021/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/texlive/2021/texmf-dist/tex/latex/numprint/numprint.sty
+Package: numprint 2012/08/20 v1.39 Print numbers (HH)
+
+(c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box50
+\extrarowheight=\dimen149
+\NC@list=\toks20
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+\c@nprt@mantissa@digitsbefore=\count199
+\c@nprt@mantissa@digitsafter=\count266
+\c@nprt@exponent@digitsbefore=\count267
+\c@nprt@exponent@digitsafter=\count268
+\nprt@digitwidth=\skip51
+\nprt@sepwidth=\skip52
+\nprt@decimalwidth=\skip53
+\nprt@blockwidth=\skip54
+\nprt@digittoks=\toks21
+\nprt@pretoks=\toks22
+\nprt@posttoks=\toks23
+\nprt@thisdigit=\count269
+\nprt@curpos=\count270
+\nprt@rndpos=\count271
+\c@nprt@digitsfirstblock=\count272
+\c@nprt@blockcnt=\count273
+\c@nprt@cntprint=\count274
+
+No configuration file `numprint.cfg' found.)
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen150
+))
+(c:/texlive/2021/texmf-dist/tex/latex/amsm

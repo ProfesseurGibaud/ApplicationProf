@@ -1,0 +1,463 @@
+
+ \section{Exercices de In\'equation Faciles}
+
+ Corrig\'e In\'equation Facile
+
+ Correction In\'equation num\'ero 0\[\left(-\infty, - \frac{71}{61} - \frac{\sqrt{649}}{61}\right] \cup \left[- \frac{71}{61} + \frac{\sqrt{649}}{61}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 1\[\left[-1, - \frac{7}{8}\right]
+ \]
+ Correction In\'equation num\'ero 2\[\left(-\infty, \infty\right)
+ \]
+ Correction In\'equation num\'ero 3\[\left(-\infty, - \frac{\sqrt{5}}{2} + \frac{1}{2}\right] \cup \left[\frac{1}{2} + \frac{\sqrt{5}}{2}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 4\[\left(-\infty, \infty\right)
+ \]
+ Correction In\'equation num\'ero 5\[\left[- \frac{7}{2}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 6\[\left[\frac{3}{4}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 7\[\left(-\infty, \frac{8}{9}\right]
+ \]
+ Correction In\'equation num\'ero 8\[\left(-\infty, - \frac{\sqrt{733}}{93} - \frac{19}{93}\right] \cup \left[- \frac{19}{93} + \frac{\sqrt{733}}{93}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 9\[\left(-\infty, \frac{7}{5}\right]
+ \]
+ \section{Exercices de In\'equation Moyens}
+
+ Corrig\'e In\'equation Moyen
+
+ Correction In\'equation num\'ero 0\[\left(-\infty, \frac{-7 + 6 \sqrt{35} \pi + 35 \pi^{2}}{- 35 \pi^{2} + 49}\right] \cup \left(-1, \infty\right)
+ \]
+ Correction In\'equation num\'ero 1\[\left[\frac{- 7 \sqrt{11} + 88 \pi}{- 55 \pi + 6 \sqrt{11}}, - \frac{7}{6}\right)
+ \]
+ Correction In\'equation num\'ero 2\[\left(- \frac{8}{9}, - \frac{215}{242} + \frac{\sqrt{3}}{242}\right]
+ \]
+ Correction In\'equation num\'ero 3\[\left(-\infty, - \frac{17}{15} - \frac{\sqrt{10}}{15}\right] \cup \left(-1, \infty\right)
+ \]
+ Correction In\'equation num\'ero 4\[\left(-\infty, \frac{-392 + 294 \sqrt{7} \pi + 945 \pi^{2}}{- 1134 \pi^{2} + 1568}\right] \cup \left(- \frac{5}{6}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 5\[\left(-\infty, - \frac{90}{73} - \frac{19 \sqrt{110}}{365}\right] \cup \left(- \frac{2}{5}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 6\[\left(-3, - \frac{79}{993} + \frac{29 \sqrt{70}}{993}\right]
+ \]
+ Correction In\'equation num\'ero 7\[\left(-\infty, -4\right) \cup \left[\frac{4 \left(- \sqrt{6} + 3 \pi\right)}{- 18 \pi + \sqrt{6}}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 8\[\left[- \frac{61}{47} - \frac{2 \sqrt{2}}{47}, - \frac{9}{7}\right)
+ \]
+ Correction In\'equation num\'ero 9\[\left(- \frac{1}{8}, \frac{7}{43} + \frac{3 \sqrt{187}}{43}\right]
+ \]
+ \section{Exercices de In\'equation Durs}
+
+ Corrig\'e In\'equation Dur
+
+ Correction In\'equation num\'ero 0\[\left(-\infty, - \frac{5}{4}\right) \cup \left[\frac{1}{2}, \frac{7}{4}\right]
+ \]
+ Correction In\'equation num\'ero 1\[\left(-5, - \frac{3}{10}\right)
+ \]
+ Correction In\'equation num\'ero 2\[\left(-1, \frac{5}{6}\right] \cup \left[\frac{3}{2}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 3\[\left[- \frac{1}{3}, - \frac{1}{10}\right) \cup \left[\frac{5}{7}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 4\[\left(- \frac{4}{5}, - \frac{1}{2}\right] \cup \left[\frac{9}{4}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 5\[\left(-\infty, - \frac{5}{2}\right) \cup \left[- \frac{\sqrt{1261}}{10} + \frac{21}{10}, - \frac{3}{5}\right) \cup \left[\frac{21}{10} + \frac{\sqrt{1261}}{10}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 6\[\left(-\infty, -2\right] \cup \left(- \frac{1}{5}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 7\[\left(-3, \frac{7}{3}\right] \cup \left[3, \infty\right)
+ \]
+ Correction In\'equation num\'ero 8\[\left(-\infty, -2\right) \cup \left\{1\right\}
+ \]
+ Correction In\'equation num\'ero 9\[\left(-2, - \frac{1}{2}\right] \cup \left[\frac{9}{8}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 10\[\left(-\infty, - \frac{7}{5}\right) \cup \left[-1, - \frac{1}{5}\right) \cup \left[\frac{13}{25}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 11\[\left(-\infty, - \frac{59}{36} - \frac{\sqrt{1465}}{36}\right] \cup \left(- \frac{8}{3}, -2\right) \cup \left[- \frac{59}{36} + \frac{\sqrt{1465}}{36}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 12\[\left(-\infty, - \frac{2}{3}\right] \cup \left[- \frac{1}{2}, - \frac{1}{3}\right)
+ \]
+ Correction In\'equation num\'ero 13\[\left(-7, \frac{2}{7}\right] \cup \left[6, \infty\right)
+ \]
+ Correction In\'equation num\'ero 14\[\left(- \frac{9}{4}, 0\right] \cup \left[\frac{8}{7}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 15\[\left(-\infty, - \frac{1}{2}\right) \cup \left(- \frac{3}{7}, - \frac{\sqrt{1177}}{14} + \frac{29}{14}\right] \cup \left[\frac{29}{14} + \frac{\sqrt{1177}}{14}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 16\[\left(-\infty, - \frac{9}{4}\right) \cup \left[\frac{3}{4}, \frac{7}{6}\right]
+ \]
+ Correction In\'equation num\'ero 17\[\left(-1, - \frac{\sqrt{1297}}{72} - \frac{17}{72}\right] \cup \left(- \frac{7}{10}, - \frac{17}{72} + \frac{\sqrt{1297}}{72}\right]
+ \]
+ Correction In\'equation num\'ero 18\[\left(-\infty, - \frac{4}{3}\right) \cup \left[0, \frac{4}{5}\right]
+ \]
+ Correction In\'equation num\'ero 19\[\left(- \frac{5}{3}, - \frac{5}{4}\right) \cup \left[-1, \frac{5}{3}\right]
+ \]
+ Correction In\'equation num\'ero 20\[\left(-\infty, - \frac{10}{3}\right) \cup \left[2, \infty\right)
+ \]
+ Correction In\'equation num\'ero 21\[\left[- \frac{\sqrt{665}}{10} - \frac{5}{2}, -4\right) \cup \left(-2, - \frac{5}{2} + \frac{\sqrt{665}}{10}\right]
+ \]
+ Correction In\'equation num\'ero 22\[\left(-\infty, - \frac{5}{3}\right) \cup \left[- \frac{6}{7}, - \frac{5}{9}\right) \cup \left[\frac{5}{3}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 23\[\left(-\infty, -1\right] \cup \left(- \frac{7}{9}, - \frac{41}{57}\right] \cup \left(- \frac{1}{3}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 24\[\left(-\infty, - \frac{5}{3}\right) \cup \left[0, \frac{8}{5}\right]
+ \]
+ Correction In\'equation num\'ero 25\[\left(-2, - \frac{81}{74} - \frac{\sqrt{1529}}{74}\right] \cup \left(- \frac{9}{7}, - \frac{81}{74} + \frac{\sqrt{1529}}{74}\right]
+ \]
+ Correction In\'equation num\'ero 26\[\left[-3, -2\right) \cup \left[\frac{5}{7}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 27\[\left(-2, - \frac{1}{3}\right] \cup \left[4, \infty\right)
+ \]
+ Correction In\'equation num\'ero 28\[\left[-2, - \frac{5}{3}\right) \cup \left[\frac{8}{9}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 29\[\left(- \frac{4}{5}, 0\right] \cup \left[\frac{10}{7}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 30\[\left(-\infty, - \frac{\sqrt{1153}}{26} - \frac{29}{26}\right] \cup \left(- \frac{4}{5}, - \frac{2}{7}\right) \cup \left[- \frac{29}{26} + \frac{\sqrt{1153}}{26}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 31\[\left(- \frac{10}{3}, - \frac{\sqrt{2129}}{38} - \frac{37}{38}\right] \cup \left(- \frac{5}{4}, - \frac{37}{38} + \frac{\sqrt{2129}}{38}\right]
+ \]
+ Correction In\'equation num\'ero 32\[\left(-\infty, -5\right) \cup \left[- \frac{\sqrt{25001}}{128} + \frac{13}{128}, - \frac{3}{7}\right) \cup \left[\frac{13}{128} + \frac{\sqrt{25001}}{128}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 33\[\left(-\infty, -2\right) \cup \left[-1, \frac{3}{4}\right]
+ \]
+ Correction In\'equation num\'ero 34\[\left(-\infty, -8\right] \cup \left(- \frac{1}{6}, 0\right]
+ \]
+ Correction In\'equation num\'ero 35\[\left[-3, -2\right) \cup \left[\frac{1}{2}, \infty\right)
+ \]
+ Correction In\'equation num\'ero 36\[\left(-\infty, - \frac{5}{3}\right) \cup \left[2, \infty\right)
+ \]
+ Correction In\'equation num\'ero 37\[\left(-\infty, - \frac{29}{14}\right] \cup \left(-1, \infty\right)
+ \]
+ Correction In\'equation num\'ero 38\[\left(-1, \frac{7}{2}\right]
+ \]
+ Correction In\'equation num\'ero 39\[\left(-\infty, - \frac{5}{3}\right) \cup \left(- \frac{1}{4}, - \frac{\sqrt{865}}{30} + \frac{5}{6}\right] \cup \left[\frac{5}{6} + \frac{\sqrt{865}}{30}, \infty\right)
+ \]
+ \section{Exercices de Equation Faciles}
+
+ Corrig\'e Equation Facile
+
+ Correction Equation num\'ero 0\[\left\{-1, - \frac{4 \sqrt{3}}{3}, - \frac{\sqrt{39}}{6}, - \frac{\sqrt{5} \pi}{5}\right\}
+ \]
+ Correction Equation num\'ero 1\[\left\{-1, - \frac{\sqrt{3}}{6 \pi}, - \frac{2 \sqrt{5}}{5 \pi}\right\}
+ \]
+ Correction Equation num\'ero 2\[\left\{- \frac{2 \sqrt{35}}{7}, - \frac{2}{\pi}, - \frac{\sqrt{238} \pi}{14}, - \frac{2 \sqrt{65} \pi}{13}\right\}
+ \]
+ Correction Equation num\'ero 3\[\left\{- \frac{4}{5}\right\}
+ \]
+ Correction Equation num\'ero 4\[\left\{\frac{7}{6}\right\}
+ \]
+ Correction Equation num\'ero 5\[\left\{-4, - \sqrt{17} \pi, - \frac{\sqrt{34}}{6 \pi}\right\}
+ \]
+ Correction Equation num\'ero 6\[\left\{- \frac{\sqrt{6}}{3}, - \pi, - \frac{\sqrt{2}}{\pi}, - \frac{2 \sqrt{5}}{\pi}, - \frac{2 \sqrt{57} \pi}{19}\right\}
+ \]
+ Correction Equation num\'ero 7\[\left\{0\right\}
+ \]
+ Correction Equation num\'ero 8\[\left\{- \frac{\sqrt{182}}{14}, - 2 \sqrt{3}, - \frac{2 \sqrt{14}}{7 \pi}\right\}
+ \]
+ Correction Equation num\'ero 9\[\left\{-1, - \frac{\sqrt{14}}{2}, - \sqrt{19}, - \frac{\sqrt{285} \pi}{19}, - \sqrt{3} \pi\right\}
+ \]
+ \section{Exercices de Equation Moyens}
+
+ Corrig\'e Equation Moyen
+
+ Correction Equation num\'ero 0\[\left\{\frac{2}{3} + \frac{\sqrt{6}}{3}, - \frac{\sqrt{6}}{3} + \frac{2}{3}\right\}
+ \]
+ Correction Equation num\'ero 1\[\left\{- \frac{\sqrt{7}}{3} + \frac{5}{3}, \frac{\sqrt{7}}{3} + \frac{5}{3}\right\}
+ \]
+ Correction Equation num\'ero 2\[\left\{1, 4\right\}
+ \]
+ Correction Equation num\'ero 3\[\left\{4, 6\right\}
+ \]
+ Correction Equation num\'ero 4\[\left\{- 2 \sqrt{2} + 3, 2 \sqrt{2} + 3\right\}
+ \]
+ Correction Equation num\'ero 5\[\left\{1, 5\right\}
+ \]
+ Correction Equation num\'ero 6\[\left\{- \frac{2}{5} - \frac{\sqrt{2}}{5}, - \frac{2}{5} + \frac{\sqrt{2}}{5}\right\}
+ \]
+ Correction Equation num\'ero 7\[\left\{0, \frac{4}{5}\right\}
+ \]
+ Correction Equation num\'ero 8\[\left\{- \frac{1}{5} + \frac{2 \sqrt{2}}{5}, - \frac{2 \sqrt{2}}{5} - \frac{1}{5}\right\}
+ \]
+ Correction Equation num\'ero 9\[\left\{0, 1\right\}
+ \]
+ \section{Exercices de Equation Durs}
+
+ Corrig\'e Equation Dur
+
+ Correction Equation num\'ero 0\[\left\{1\right\}
+ \]
+ Correction Equation num\'ero 1\[\left\{\frac{1}{5}\right\}
+ \]
+ Correction Equation num\'ero 2\[\left\{- \frac{1}{2}\right\}
+ \]
+ Correction Equation num\'ero 3\[\left\{- \frac{3}{8} + \frac{e^{9}}{8}\right\}
+ \]
+ Correction Equation num\'ero 4\[\left\{- \frac{4}{9} + \frac{e^{8}}{9}\right\}
+ \]
+ Correction Equation num\'ero 5\[\left\{2\right\}
+ \]
+ Correction Equation num\'ero 6\[\left\{- \frac{9}{4} + \frac{e^{19}}{4}\right\}
+ \]
+ Correction Equation num\'ero 7\[\left\{\frac{1}{4}\right\}
+ \]
+ Correction Equation num\'ero 8\[\emptyset
+ \]
+ Correction Equation num\'ero 9\[\emptyset
+ \]
+ Correction Equation num\'ero 10\[\left\{\frac{4}{5}\right\}
+ \]
+ Correction Equation num\'ero 11\[\left\{- \frac{4}{7} + \frac{\log{\left (5 \right )}}{7}\right\}
+ \]
+ Correction Equation num\'ero 12\[\left\{- \frac{1}{2}\right\}
+ \]
+ Correction Equation num\'ero 13\[\left\{- \frac{7}{6} + \frac{1}{6 e^{2}}\right\}
+ \]
+ Correction Equation num\'ero 14\[\left\{- \frac{1}{4} + \frac{e^{2}}{8}\right\}
+ \]
+ Correction Equation num\'ero 15\[\left\{- \frac{7}{5}\right\}
+ \]
+ Correction Equation num\'ero 16\[\left\{-1\right\}
+ \]
+ Correction Equation num\'ero 17\[\left\{\frac{1}{7}\right\}
+ \]
+ Correction Equation num\'ero 18\[\left\{-2 + e^{14}\right\}
+ \]
+ Correction Equation num\'ero 19\[\left\{\frac{5}{4}\right\}
+ \]
+ Correction Equation num\'ero 20\[\left\{-3 + \frac{\log{\left (11 \right )}}{2}\right\}
+ \]
+ Correction Equation num\'ero 21\[\left\{- \frac{3}{2}\right\}
+ \]
+ Correction Equation num\'ero 22\[\left\{3\right\}
+ \]
+ Correction Equation num\'ero 23\[\left\{- \frac{1}{2}\right\}
+ \]
+ Correction Equation num\'ero 24\[\left\{- \frac{9}{4} + \frac{\log{\left (6 \right )}}{4}\right\}
+ \]
+ Correction Equation num\'ero 25\[\left\{\frac{7}{3}\right\}
+ \]
+ Correction Equation num\'ero 26\[\left\{- \frac{4}{5} + \frac{e^{11}}{5}\right\}
+ \]
+ Correction Equation num\'ero 27\[\left\{0\right\}
+ \]
+ Correction Equation num\'ero 28\[\left\{\frac{6}{5}\right\}
+ \]
+ Correction Equation num\'ero 29\[\left\{2\right\}
+ \]
+ Correction Equation num\'ero 30\[\left\{-6\right\}
+ \]
+ Correction Equation num\'ero 31\[\left\{-5\right\}
+ \]
+ Correction Equation num\'ero 32\[\left\{\frac{5}{4}\right\}
+ \]
+ Correction Equation num\'ero 33\[\left\{- \frac{8}{7} + \frac{e^{8}}{7}\right\}
+ \]
+ Correction Equation num\'ero 34\[\emptyset
+ \]
+ Correction Equation num\'ero 35\[\left\{- \frac{1}{4}\right\}
+ \]
+ Correction Equation num\'ero 36\[\left\{- \frac{2}{3} + \frac{1}{9 e}\right\}
+ \]
+ Correction Equation num\'ero 37\[\left\{-4\right\}
+ \]
+ Correction Equation num\'ero 38\[\left\{\frac{1}{2}\right\}
+ \]
+ Correction Equation num\'ero 39\[\left\{- \frac{3}{5} + \frac{\log{\left (11 \right )}}{10}\right\}
+ \]
+ \section{Exercices de Tableaux de Variation Faciles}
+
+ Corrig\'e Tableaux de Variation Facile
+
+ Dans la suite, vous verrez la d\'eriv\'ee puis le domaine o\`u la d\'eriv\'ee est positive 
+
+ Fonction 0\[f(x) = \left(2 x + 8\right) \left(5 x + 10\right)\\\]
+ \[f'(x) = 20 x + 60\]
+ \[\left[-3, \infty\right)\]
+ Fonction 1\[f(x) = \pi x^{2} + 6 x + \sqrt{17} + 7\\\]
+ \[f'(x) = 2 \pi x + 6\]
+ \[\left[- \frac{3}{\pi}, \infty\right)\]
+ Fonction 2\[f(x) = \left(6 x + 3\right) \left(7 x + 1\right)\\\]
+ \[f'(x) = 84 x + 27\]
+ \[\left[- \frac{9}{28}, \infty\right)\]
+ Fonction 3\[f(x) = 4 \sqrt{6} x^{3} + 3 \sqrt{17} \pi x^{2} + 2 \sqrt{10} x + 9\\\]
+ \[f'(x) = 12 \sqrt{6} x^{2} + 6 \sqrt{17} \pi x + 2 \sqrt{10}\]
+ \[\left(-\infty, - \frac{\sqrt{102} \pi}{24} - \frac{\sqrt{2} \sqrt{- 16 \sqrt{15} + 51 \pi^{2}}}{24}\right] \cup \left[- \frac{\sqrt{102} \pi}{24} + \frac{\sqrt{2} \sqrt{- 16 \sqrt{15} + 51 \pi^{2}}}{24}, \infty\right)\]
+ Fonction 4\[f(x) = \left(4 x + 9\right) \left(5 x + 4\right)\\\]
+ \[f'(x) = 40 x + 61\]
+ \[\left[- \frac{61}{40}, \infty\right)\]
+ Fonction 5\[f(x) = \left(x + 4\right) \left(5 x + 4\right)\\\]
+ \[f'(x) = 10 x + 24\]
+ \[\left[- \frac{12}{5}, \infty\right)\]
+ Fonction 6\[f(x) = \sqrt{2} x^{2} + 6 x + 2 + \sqrt{19}\\\]
+ \[f'(x) = 2 \sqrt{2} x + 6\]
+ \[\left[- \frac{3 \sqrt{2}}{2}, \infty\right)\]
+ Fonction 7\[f(x) = \left(x + 9\right) \left(3 x + 4\right)\\\]
+ \[f'(x) = 6 x + 31\]
+ \[\left[- \frac{31}{6}, \infty\right)\]
+ Fonction 8\[f(x) = 9 x + 2 \sqrt{3} \pi x + 4\\\]
+ \[f'(x) = 9 + 2 \sqrt{3} \pi\]
+ \[\mathbb{R}\]
+ Fonction 9\[f(x) = \left(x + 8\right) \left(8 x + 8\right)\\\]
+ \[f'(x) = 16 x + 72\]
+ \[\left[- \frac{9}{2}, \infty\right)\]
+ \section{Exercices de Tableaux de Variation Moyens}
+
+ Corrig\'e Tableaux de Variation Moyen
+
+ Dans la suite, vous verrez la d\'eriv\'ee puis le domaine o\`u la d\'eriv\'ee est positive 
+
+ Fonction 0\[f(x) = 12 x^{3} + 14 \sqrt{5} \pi x^{2} - \pi x + 7 \sqrt{2} \pi x - \sqrt{7} \pi + 1 + 3 \sqrt{10} \pi\\\]
+ \[f'(x) = 36 x^{2} + 28 \sqrt{5} \pi x - \pi + 7 \sqrt{2} \pi\]
+ \[\left(-\infty, - \frac{7 \sqrt{5} \pi}{18} - \frac{\sqrt{\pi} \sqrt{- 63 \sqrt{2} + 9 + 245 \pi}}{18}\right] \cup \left[- \frac{7 \sqrt{5} \pi}{18} + \frac{\sqrt{\pi} \sqrt{- 63 \sqrt{2} + 9 + 245 \pi}}{18}, \infty\right)\]
+ Fonction 1\[f(x) = \left(4 x + 8\right) \left(5 x + 9\right)\\\]
+ \[f'(x) = 40 x + 76\]
+ \[\left[- \frac{19}{10}, \infty\right)\]
+ Fonction 2\[f(x) = - \sqrt{5} x^{2} + \left(2 \pi x + 4 \sqrt{11} \pi\right)^{3} - 3 \pi - 1\\\]
+ \[f'(x) = - 2 \sqrt{5} x + 6 \pi \left(2 \pi x + 4 \sqrt{11} \pi\right)^{2}\]
+ \[\left(-\infty, \infty\right)\]
+ Fonction 3\[f(x) = 3 \sqrt{5} x^{3} - x^{2} + 3 \sqrt{2} x^{2} + \sqrt{15} x - \sqrt{3} - 1 + 4 \sqrt{3} \pi\\\]
+ \[f'(x) = 9 \sqrt{5} x^{2} - 2 x + 6 \sqrt{2} x + \sqrt{15}\]
+ \[\left(-\infty, \infty\right)\]
+ Fonction 4\[f(x) = \frac{3 x + 6}{6 x + 10}\\\]
+ \[f'(x) = - \frac{6 \left(3 x + 6\right)}{\left(6 x + 10\right)^{2}} + \frac{3}{6 x + 10}\]
+ \[\emptyset\]
+ Fonction 5\[f(x) = \frac{9 x + 10}{9 x + 7}\\\]
+ \[f'(x) = \frac{9}{9 x + 7} - \frac{9 \left(9 x + 10\right)}{\left(9 x + 7\right)^{2}}\]
+ \[\emptyset\]
+ Fonction 6\[f(x) = \left(8 x + 8\right) \left(9 x + 1\right)\\\]
+ \[f'(x) = 144 x + 80\]
+ \[\left[- \frac{5}{9}, \infty\right)\]
+ Fonction 7\[f(x) = \frac{x + 9}{10 x + 4}\\\]
+ \[f'(x) = - \frac{10 \left(x + 9\right)}{\left(10 x + 4\right)^{2}} + \frac{1}{10 x + 4}\]
+ \[\emptyset\]
+ Fonction 8\[f(x) = \left(2 x + 8\right) \left(3 x + 10\right)\\\]
+ \[f'(x) = 12 x + 44\]
+ \[\left[- \frac{11}{3}, \infty\right)\]
+ Fonction 9\[f(x) = \left(x + 5\right) \left(6 x + 7\right)\\\]
+ \[f'(x) = 12 x + 37\]
+ \[\left[- \frac{37}{12}, \infty\right)\]
+ \section{Exercices de Tableaux de Variation Durs}
+
+ Corrig\'e Tableaux de Variation Dur
+
+ Dans la suite, vous verrez la d\'eriv\'ee puis le domaine o\`u la d\'eriv\'ee est positive 
+
+ Fonction 0\[f(x) = e^{\frac{6 x + 1}{8 x + 8}}\\\]
+ \[f'(x) = \frac{5 e^{\frac{6 x + 1}{8 x + 8}}}{8 \left(x + 1\right)^{2}}\]
+ \[\left(-\infty, -1\right) \cup \left(-1, \infty\right)\]
+ Fonction 1\[f(x) = \left(7 x + 7\right)^{3} + \log{\left (x + 9 \right )}\\\]
+ \[f'(x) = 21 \left(7 x + 7\right)^{2} + \frac{1}{x + 9}\]
+ \[\left(-9, \infty\right)\]
+ Fonction 2\[f(x) = e^{\frac{\left(5 x + 6\right)^{2}}{x + 8}}\\\]
+ \[f'(x) = \frac{\left(25 x^{2} + 400 x + 444\right) e^{\frac{\left(5 x + 6\right)^{2}}{x + 8}}}{\left(x + 8\right)^{2}}\]
+ \[\left(-\infty, - \frac{74}{5}\right) \cup \left(- \frac{6}{5}, \infty\right)\]
+ Fonction 3\[f(x) = \left(3 x + 2\right)^{3} + \log{\left (x + 7 \right )}\\\]
+ \[f'(x) = 9 \left(3 x + 2\right)^{2} + \frac{1}{x + 7}\]
+ \[\left(-7, \infty\right)\]
+ Fonction 4\[f(x) = \frac{\log{\left (x + 1 \right )}}{x + 1}\\\]
+ \[f'(x) = - \frac{\log{\left (x + 1 \right )}}{\left(x + 1\right)^{2}} + \frac{1}{\left(x + 1\right)^{2}}\]
+ \[\left(-1, -1 + e\right)\]
+ Fonction 5\[f(x) = \log{\left (\frac{4 x + 10}{8 x + 10} \right )}\\\]
+ \[f'(x) = \frac{\left(8 x + 10\right) \left(- \frac{8 \left(4 x + 10\right)}{\left(8 x + 10\right)^{2}} + \frac{4}{8 x + 10}\right)}{4 x + 10}\]
+ \[\emptyset\]
+ Fonction 6\[f(x) = 4 x^{3} + 7 x^{2} + 9 x + \log{\left (6 x + 4 \right )} + 1\\\]
+ \[f'(x) = 12 x^{2} + 14 x + 9 + \frac{6}{6 x + 4}\]
+ \[\left(- \frac{2}{3}, \infty\right)\]
+ Fonction 7\[f(x) = 9 x^{3} + 5 x^{2} + 8 x + \log{\left (6 x + 8 \right )} + 8\\\]
+ \[f'(x) = 27 x^{2} + 10 x + 8 + \frac{6}{6 x + 8}\]
+ \[\left(- \frac{4}{3}, \infty\right)\]
+ Fonction 8\[f(x) = \log{\left (\frac{5 x^{2} + 4}{x + 8} \right )}\\\]
+ \[f'(x) = \frac{\left(x + 8\right) \left(\frac{10 x}{x + 8} - \frac{5 x^{2} + 4}{\left(x + 8\right)^{2}}\right)}{5 x^{2} + 4}\]
+ \[\left(-8 + \frac{18 \sqrt{5}}{5}, \infty\right)\]
+ Fonction 9\[f(x) = \frac{\log{\left (5 x + 8 \right )}}{5 x + 8}\\\]
+ \[f'(x) = - \frac{5 \log{\left (5 x + 8 \right )}}{\left(5 x + 8\right)^{2}} + \frac{5}{\left(5 x + 8\right)^{2}}\]
+ \[\left(- \frac{8}{5}, - \frac{8}{5} + \frac{e}{5}\right)\]
+ Fonction 10\[f(x) = \frac{\log{\left (8 x + 8 \right )}}{8 x + 8}\\\]
+ \[f'(x) = - \frac{8 \log{\left (8 x + 8 \right )}}{\left(8 x + 8\right)^{2}} + \frac{8}{\left(8 x + 8\right)^{2}}\]
+ \[\left(-1, -1 + \frac{e}{8}\right)\]
+ Fonction 11\[f(x) = \frac{\log{\left (x + 10 \right )}}{x + 10}\\\]
+ \[f'(x) = - \frac{\log{\left (x + 10 \right )}}{\left(x + 10\right)^{2}} + \frac{1}{\left(x + 10\right)^{2}}\]
+ \[\left(-10, -10 + e\right)\]
+ Fonction 12\[f(x) = e^{\left(24 x + 12\right) \left(3 \pi x^{2} - 1 + 2 \sqrt{2}\right)}\\\]
+ \[f'(x) = \left(216 \pi x^{2} + 72 \pi x - 24 + 48 \sqrt{2}\right) e^{\left(24 x + 12\right) \left(3 \pi x^{2} - 1 + 2 \sqrt{2}\right)}\]
+ \[\left(-\infty, \infty\right)\]
+ Fonction 13\[f(x) = e^{\frac{9 x^{2} + 5 x + 3}{4 x + 9}}\\\]
+ \[f'(x) = \frac{\left(36 x^{2} + 162 x + 33\right) e^{\frac{9 x^{2} + 5 x + 3}{4 x + 9}}}{\left(4 x + 9\right)^{2}}\]
+ \[\left(-\infty, - \frac{9}{4} - \frac{\sqrt{597}}{12}\right) \cup \left(- \frac{9}{4} + \frac{\sqrt{597}}{12}, \infty\right)\]
+ Fonction 14\[f(x) = \left(5 x + 2\right)^{3} + \log{\left (5 x + 3 \right )}\\\]
+ \[f'(x) = 15 \left(5 x + 2\right)^{2} + \frac{5}{5 x + 3}\]
+ \[\left(- \frac{3}{5}, \infty\right)\]
+ Fonction 15\[f(x) = e^{2 \sqrt{5} \pi \left(6 x + 6\right) \left(\sqrt{2} \pi x + 1 + \sqrt{7}\right)}\\\]
+ \[f'(x) = \left(24 \sqrt{10} \pi^{2} x + 12 \sqrt{5} \pi + 12 \sqrt{35} \pi + 12 \sqrt{10} \pi^{2}\right) e^{2 \sqrt{5} \pi \left(6 x + 6\right) \left(\sqrt{2} \pi x + 1 + \sqrt{7}\right)}\]
+ \[\left(- \frac{\sqrt{10} \left(\sqrt{5} \pi + \sqrt{35} \pi + \sqrt{10} \pi^{2}\right)}{20 \pi^{2}}, \infty\right)\]
+ Fonction 16\[f(x) = \left(6 x + 4\right)^{3} + \log{\left (7 x + 4 \right )}\\\]
+ \[f'(x) = 18 \left(6 x + 4\right)^{2} + \frac{7}{7 x + 4}\]
+ \[\left(- \frac{4}{7}, \infty\right)\]
+ Fonction 17\[f(x) = e^{\sqrt{7} \pi \left(7 x + 2\right) \left(\sqrt{11} x^{2} - 1 + \sqrt{11}\right)}\\\]
+ \[f'(x) = \left(21 \sqrt{77} \pi x^{2} + 4 \sqrt{77} \pi x - 7 \sqrt{7} \pi + 7 \sqrt{77} \pi\right) e^{\sqrt{7} \pi \left(7 x + 2\right) \left(\sqrt{11} x^{2} - 1 + \sqrt{11}\right)}\]
+ \[\left(-\infty, \infty\right)\]
+ Fonction 18\[f(x) = 7 x^{3} + 3 x^{2} + 7 x + \log{\left (6 x + 7 \right )} + 7\\\]
+ \[f'(x) = 21 x^{2} + 6 x + 7 + \frac{6}{6 x + 7}\]
+ \[\left(- \frac{7}{6}, \infty\right)\]
+ Fonction 19\[f(x) = \left(2 x + 6\right) e^{10 x + 1}\\\]
+ \[f'(x) = \frac{\left(2 x + 6\right) \left(10 x + 31\right) e^{10 x + 1}}{x + 3}\]
+ \[\left(-\infty, - \frac{31}{10}\right) \cup \left(-3, \infty\right)\]
+ Fonction 20\[f(x) = \left(x + 3\right) e^{6 x + 3}\\\]
+ \[f'(x) = \left(6 x + 19\right) e^{6 x + 3}\]
+ \[\left(-\infty, - \frac{19}{6}\right) \cup \left(-3, \infty\right)\]
+ Fonction 21\[f(x) = e^{\frac{4 x + 8}{9 x + 10}}\\\]
+ \[f'(x) = - \frac{32 e^{\frac{4 x + 8}{9 x + 10}}}{\left(9 x + 10\right)^{2}}\]
+ \[\emptyset\]
+ Fonction 22\[f(x) = \left(4 x + 5\right) e^{5 x + 8}\\\]
+ \[f'(x) = \left(20 x + 29\right) e^{5 x + 8}\]
+ \[\left(-\infty, - \frac{29}{20}\right) \cup \left(- \frac{5}{4}, \infty\right)\]
+ Fonction 23\[f(x) = \left(3 x + 8\right)^{3} + \log{\left (3 x + 4 \right )}\\\]
+ \[f'(x) = 9 \left(3 x + 8\right)^{2} + \frac{3}{3 x + 4}\]
+ \[\left\{x \mid x \in \left(- \frac{4}{3}, \infty\right) \wedge 9 \left(3 x + 8\right)^{2} + \frac{3}{3 x + 4} > 0 \right\}\]
+ Fonction 24\[f(x) = e^{\frac{\left(2 x + 9\right)^{2}}{6 x + 2}}\\\]
+ \[f'(x) = \frac{\left(12 x^{2} + 8 x - 207\right) e^{\frac{\left(2 x + 9\right)^{2}}{6 x + 2}}}{2 \left(3 x + 1\right)^{2}}\]
+ \[\left(-\infty, - \frac{9}{2}\right) \cup \left(\frac{23}{6}, \infty\right)\]
+ Fonction 25\[f(x) = e^{\frac{\left(7 x + 4\right)^{2}}{9 x + 4}}\\\]
+ \[f'(x) = \frac{\left(441 x^{2} + 392 x + 80\right) e^{\frac{\left(7 x + 4\right)^{2}}{9 x + 4}}}{\left(9 x + 4\right)^{2}}\]
+ \[\left(-\infty, - \frac{4}{7}\right) \cup \left(- \frac{20}{63}, \infty\right)\]
+ Fonction 26\[f(x) = \frac{\log{\left (9 x + 6 \right )}}{9 x + 6}\\\]
+ \[f'(x) = - \frac{9 \log{\left (9 x + 6 \right )}}{\left(9 x + 6\right)^{2}} + \frac{9}{\left(9 x + 6\right)^{2}}\]
+ \[\left(- \frac{2}{3}, - \frac{2}{3} + \frac{e}{9}\right)\]
+ Fonction 27\[f(x) = 8 x^{3} + 7 x^{2} + 4 x + \log{\left (4 x + 8 \right )} + 7\\\]
+ \[f'(x) = 24 x^{2} + 14 x + 4 + \frac{4}{4 x + 8}\]
+ \[\left(-2, \infty\right)\]
+ Fonction 28\[f(x) = \frac{\log{\left (x + 1 \right )}}{x + 1}\\\]
+ \[f'(x) = - \frac{\log{\left (x + 1 \right )}}{\left(x + 1\right)^{2}} + \frac{1}{\left(x + 1\right)^{2}}\]
+ \[\left(-1, -1 + e\right)\]
+ Fonction 29\[f(x) = \left(7 x + 5\right)^{3} + \log{\left (6 x + 2 \right )}\\\]
+ \[f'(x) = 21 \left(7 x + 5\right)^{2} + \frac{6}{6 x + 2}\]
+ \[\left(- \frac{1}{3}, \infty\right)\]
+ Fonction 30\[f(x) = \left(3 x + 4\right) e^{8 x + 2}\\\]
+ \[f'(x) = \left(24 x + 35\right) e^{8 x + 2}\]
+ \[\left(-\infty, - \frac{35}{24}\right) \cup \left(- \frac{4}{3}, \infty\right)\]
+ Fonction 31\[f(x) = 4 x^{3} + x^{2} + 8 x + \log{\left (2 x + 1 \right )} + 9\\\]
+ \[f'(x) = 12 x^{2} + 2 x + 8 + \frac{2}{2 x + 1}\]
+ \[\left(- \frac{1}{2}, \infty\right)\]
+ Fonction 32\[f(x) = \frac{\log{\left (4 x + 8 \right )}}{4 x + 8}\\\]
+ \[f'(x) = - \frac{4 \log{\left (4 x + 8 \right )}}{\left(4 x + 8\right)^{2}} + \frac{4}{\left(4 x + 8\right)^{2}}\]
+ \[\left(-2, -2 + \frac{e}{4}\right)\]
+ Fonction 33\[f(x) = \left(10 x + 5\right) e^{6 x + 2}\\\]
+ \[f'(x) = \frac{\left(10 x + 5\right) \left(12 x + 8\right) e^{6 x + 2}}{2 x + 1}\]
+ \[\left(-\infty, - \frac{2}{3}\right) \cup \left(- \frac{1}{2}, \infty\right)\]
+ Fonction 34\[f(x) = \left(3 x + 8\right)^{3} + \log{\left (10 x + 2 \right )}\\\]
+ \[f'(x) = 9 \left(3 x + 8\right)^{2} + \frac{10}{10 x + 2}\]
+ \[\left\{x \mid x \in \left(- \frac{1}{5}, \infty\right) \wedge 9 \left(3 x + 8\right)^{2} + \frac{10}{10 x + 2} > 0 \right\}\]
+ Fonction 35\[f(x) = e^{\sqrt{13} \left(2 x + 3\right) \left(2 \sqrt{5} x^{2} - 1 + \sqrt{17} \pi\right)}\\\]
+ \[f'(x) = \left(12 \sqrt{65} x^{2} + 12 \sqrt{65} x - 2 \sqrt{13} + 2 \sqrt{221} \pi\right) e^{\sqrt{13} \left(2 x + 3\right) \left(2 \sqrt{5} x^{2} - 1 + \sqrt{17} \pi\right)}\]
+ \[\left(-\infty, \infty\right)\]
+ Fonction 36\[f(x) = e^{2 \sqrt{2} \left(2 x + 8\right) \left(\sqrt{3} x - 1 + \sqrt{6} \pi\right)}\\\]
+ \[f'(x) = \left(8 \sqrt{6} x - 4 \sqrt{2} + 16 \sqrt{6} + 8 \sqrt{3} \pi\right) e^{2 \sqrt{2} \left(2 x + 8\right) \left(\sqrt{3} x - 1 + \sqrt{6} \pi\right)}\]
+ \[\left(- \frac{\sqrt{6} \left(- \sqrt{2} + 4 \sqrt{6} + 2 \sqrt{3} \pi\right)}{12}, \infty\right)\]
+ Fonction 37\[f(x) = \frac{\log{\left (5 x + 5 \right )}}{5 x + 5}\\\]
+ \[f'(x) = - \frac{5 \log{\left (5 x + 5 \right )}}{\left(5 x + 5\right)^{2}} + \frac{5}{\left(5 x + 5\right)^{2}}\]
+ \[\left(-1, -1 + \frac{e}{5}\right)\]
+ Fonction 38\[f(x) = \log{\left (\frac{9 x^{2} + 7 x + 7}{4 x + 7} \right )}\\\]
+ \[f'(x) = \frac{\left(4 x + 7\right) \left(\frac{18 x + 7}{4 x + 7} - \frac{4 \left(9 x^{2} + 7 x + 7\right)}{\left(4 x + 7\right)^{2}}\right)}{9 x^{2} + 7 x + 7}\]
+ \[\left(- \frac{7}{4} + \frac{\sqrt{357}}{12}, \infty\right)\]
+ Fonction 39\[f(x) = e^{\frac{5 x + 8}{3 x + 1}}\\\]
+ \[f'(x) = - \frac{19 e^{\frac{5 x + 8}{3 x + 1}}}{\left(3 x + 1\right)^{2}}\]
+ \[\emptyset\]

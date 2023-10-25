@@ -1,0 +1,1550 @@
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de Tableaux de Variation Faciles}Tableaux de Variation num\'ero 0 \[f(x) = \left(4 \pi x + 8 \sqrt{7} \pi\right)^{3}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \left(3 \sqrt{19} \pi x + 6 \sqrt{6}\right)^{3}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de Tableaux de Variation Faciles}Tableaux de Variation num\'ero 0 \[f(x) = \left(4 \pi x + 8 \sqrt{7} \pi\right)^{3}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \left(3 \sqrt{19} \pi x + 6 \sqrt{6}\right)^{3}\]
+
+ \section{Exercices de Tableaux de Variation Moyens}Tableaux de Variation num\'ero 0 \[f(x) = \frac{3 \pi x + 4 \pi}{2 \sqrt{5} x + 4 \pi}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \frac{\sqrt{2} x + \sqrt{6} \pi}{4 \pi x + 2 \sqrt{3} \pi}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de Tableaux de Variation Faciles}Tableaux de Variation num\'ero 0 \[f(x) = \left(4 \pi x + 8 \sqrt{7} \pi\right)^{3}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \left(3 \sqrt{19} \pi x + 6 \sqrt{6}\right)^{3}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Faciles}D\'eveloppement num\'ero 0 \[\left(- x - 3\right) \left(x + 7\right) + \left(3 x + 6\right)^{2} \cdot \left(4 x + 6\right)\]
+D\'eveloppement num\'ero 1 \[\left(- x - 2\right) \left(6 x + 9\right)^{2} + \left(3 x + 3\right) \left(5 x + 8\right)\]
+
+ \section{Exercices de D\'eveloppement Moyens}D\'eveloppement num\'ero 0 \[\left(4 x + 2\right)^{2} \cdot \left(3 x^{2} + 8 x\right) - \left(6 x + 9\right)^{2} \left(7 x + 10\right)^{2}\]
+D\'eveloppement num\'ero 1 \[\left(2 x + 7\right)^{2} \cdot \left(6 x^{2} + 8 x + 1\right) + \left(10 x + 8\right)^{2} \cdot \left(9 x^{2} + 8 x + 7\right)\]
+
+ \section{Exercices de D\'eveloppement Durs}D\'eveloppement num\'ero 0 \[\left(4 x + 10\right) \left(- 30 x + \left(- 12 x + \left(9 x + 1\right) \left(6 x^{2} - 71 x - 29\right) - 30\right) \left(4 x^{2} + 6 x + 8\right) - 50\right)\]
+D\'eveloppement num\'ero 1 \[\left(10 x + 5\right)^{2} \left(- 24 x + \left(3 x + 4\right)^{2} \left(- 70 x + \left(- 21 x + \left(5 x + 8\right)^{2} - 28\right) \left(7 x^{2} + 5 x + 4\right) - 49\right) - 48\right)\]
+
+ \section{Exercices de In\'equation Faciles}In\'equation num\'ero 0 \[3 x^{2} + 4 x + 4 \geq \left(10 x + 9\right)^{2}\]
+In\'equation num\'ero 1 \[5 x + 4 \leq 7 x + 9\]
+
+ \section{Exercices de In\'equation Moyens}In\'equation num\'ero 0 \[\frac{7 x + 7}{8 x + 4} \leq \frac{2 \sqrt{34}}{17 \pi}\]
+In\'equation num\'ero 1 \[\frac{6 x + 7}{x + 3} \leq \frac{\sqrt{114}}{6}\]
+In\'equation num\'ero 2 \[\frac{9 x + 7}{x + 10} \geq \frac{\sqrt{10}}{5}\]
+
+ \section{Exercices de In\'equation Durs}In\'equation num\'ero 0 \[\frac{4 x + 10}{x + 1} \leq \frac{5 x + 10}{6 x + 9}\]
+In\'equation num\'ero 1 \[\frac{2 x + 2}{9 x + 5} \geq \frac{10 x + 4}{x + 2}\]
+
+ \section{Exercices de Tableaux de Variation Faciles}Tableaux de Variation num\'ero 0 \[f(x) = \left(4 \pi x + 8 \sqrt{7} \pi\right)^{3}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \left(3 \sqrt{19} \pi x + 6 \sqrt{6}\right)^{3}\]
+
+ \section{Exercices de Tableaux de Variation Moyens}Tableaux de Variation num\'ero 0 \[f(x) = \frac{3 \pi x + 4 \pi}{2 \sqrt{5} x + 4 \pi}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \frac{\sqrt{2} x + \sqrt{6} \pi}{4 \pi x + 2 \sqrt{3} \pi}\]
+
+ \section{Exercices de Tableaux de Variation Durs}Tableaux de Variation num\'ero 0 \[f(x) = \frac{\sqrt{2} \pi \sqrt{\sqrt{15} x + \sqrt{2}}}{\left(4 x + 10\right)^{2}}\]
+Tableaux de Variation num\'ero 1 \[f(x) = \sqrt{10} \left(\pi x + \sqrt{14}\right) \sqrt{\left(5 x + 5\right)^{2}}\]
+Tableaux de Variation num\'ero 2 \[f(x) = \frac{4 \sqrt{2 \pi x + 1}}{5 x^{2} + 5 x + 2}\]

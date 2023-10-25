@@ -1,0 +1,20 @@
+Les {0} personnes travaillant dans un immeuble de bureaux de trois niveaux ont répondu aux deux
+questions suivantes :
+• « À quel niveau est votre bureau ? »
+• « Empruntez-vous l’ascenseur ou l’escalier pour vous y rendre ? »
+Voici les réponses :
+• {1} personnes utilisent l’ascenseur et, parmi celles-ci, {2} vont au 1er niveau, {3} vont au 2e niveau
+et {4} vont au 3e niveau.
+• Les autres personnes utilisent l’escalier et, parmi celles-ci, un tiers va au 2e niveau, les autres vont
+au 1er niveau.
+On choisit au hasard une personne de cette population.
+On pourra considérer les évènements suivants :
+– N1 : « La personne va au premier niveau. »
+– N2 : « La personne va au deuxième niveau. »
+– N3 : « La personne va au troisième niveau. »
+- E  : " La personne utilise l'escalier"
+
+
+1 < {0}
+{2} + {3} + {4} = {1}
+

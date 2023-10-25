@@ -1,0 +1,2 @@
+python exec.py
+pause

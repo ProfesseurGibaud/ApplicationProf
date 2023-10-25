@@ -1,0 +1,25 @@
+En vue de sa prochaine brochure d’information sur les dangers d’internet un lycée a fait remplir un
+questionnaire à chacun des {0} élèves, répartis dans les sections de seconde, première et terminale.
+On obtient la répartition suivante :
+• {1} des élèves est en terminale ;
+• {2} des élèves sont en première ;
+• tous les autres sont en seconde ;
+• parmi les élèves de terminale, {3} utilisent régulièrement internet ;
+• {4} élèves sont des élèves de première qui utilisent régulièrement internet.
+• {5} élèves utilisent régulièrement internet.
+Cette enquête permet demodéliser le choix d’un élève du lycée.
+On choisit au hasard un questionnaire d’élève en supposant que ce choix se fait en situation d’équiprobabilité.
+On note :
+• S l’évènement « le questionnaire est celui d’un élève en classe de seconde »
+• E l’évènement « le questionnaire est celui d’un élève en classe de première »
+• T l’évènement « le questionnaire est celui d’un élève en classe de terminale »
+• I l’évènement « le questionnaire est celui d’un élève qui utilise régulièrement internet »
+
+
+{0} = Total = Nbre rond gros
+{1} + {2} < 1
+{3} = Grand pourcentage
+{4} < {2}
+{5} Grand Nombre < {1}
+
+
