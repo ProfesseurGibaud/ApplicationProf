@@ -654,7 +654,7 @@ class Motif(GridLayout):  # Le contenu de lecran du jeu
         self.row_default_height = 60
         self.size_hint_y = None
         # self.size_hint_y = None
-        self.orientation = 'vertical'
+        self.orientation = 'lr-tb'
         self.spacing = 20
         self.bind(minimum_height=self.setter('height'))
         self.Mes_Boutons()
@@ -920,7 +920,7 @@ class ClasseGridLayout(GridLayout):  # Le contenu de lecran du jeu
         self.row_default_height = 60
         self.size_hint_y = None
         # self.size_hint_y = None
-        self.orientation = 'vertical'
+        self.orientation = 'lr-tb'
         self.spacing = 20
         self.bind(minimum_height=self.setter('height'))
         self.ListeAPunir = []
